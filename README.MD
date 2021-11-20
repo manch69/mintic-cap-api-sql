@@ -1,4 +1,4 @@
-Capacitacion API REST CRUD NOSQL 
+Capacitacion API REST CRUD SQL 
 =============================
 ### Por: Miguel Noriega
 
